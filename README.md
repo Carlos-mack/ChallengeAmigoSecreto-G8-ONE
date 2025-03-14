@@ -21,23 +21,5 @@ Este é um projeto simples em HTML, CSS e JavaScript para realizar um sorteio de
 4. Clique no botão "Sortear amigo" para escolher um nome aleatório.
 5. O nome sorteado será exibido na tela.
 
-## 📂 Estrutura do Projeto
-```
-📁 amigo-secreto
-│── 📄 index.html      # Página principal
-│── 📄 style.css       # Estilos da página
-│── 📄 app.js          # Lógica do sorteio
-│── 📁 assets/         # Imagens e ícones
-```
 
-## 🔧 Melhorias Futuras
-- Implementar a funcionalidade de remover amigos da lista.
-- Permitir exportar o resultado do sorteio.
-- Criar um layout responsivo para dispositivos móveis.
-
-## 📜 Licença
-Este projeto é de código aberto e pode ser modificado livremente.
-
----
-✉️ Para dúvidas ou sugestões, fique à vontade para entrar em contato!
 
