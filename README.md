@@ -1,12 +1,12 @@
 # Sorteio de Amigo Secreto
 
 ## 📌 Descrição
-Este é um projeto simples em HTML, CSS e JavaScript para realizar um sorteio de Amigo Secreto. O usuário pode adicionar amigos a uma lista e, posteriormente, sortear um nome aleatório.
+Este é um projeto em HTML, CSS e JavaScript para realizar um sorteio de Amigo Secreto. O usuário pode adicionar amigos a uma lista e, posteriormente, sortear um nome aleatório.
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## 🚀 Funcionalidades
 - Adicionar nomes à lista de amigos.
